@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation-Training"> 
+    <test name="Automation Basics">
+        <classes>            
+        	<class name="tests.AdsProfileTests" />
+            <class name="tests.BrowseCTests" />
+        	<class name="tests.HomeTests" />
+        	<class name="tests.LogInTests" />
+        	<class name="tests.PostAdTests" />
+        	<class name="tests.RegisterTests" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="17" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation-Training" duration-ms="83302" started-at="2016-10-26T21:01:49Z" finished-at="2016-10-26T21:03:13Z">
+    <groups>
+    </groups>
+    <test name="Automation Basics" duration-ms="83302" started-at="2016-10-26T21:01:49Z" finished-at="2016-10-26T21:03:13Z">
+      <class name="tests.HomeTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.HomeTests@402f32ff]" name="setUp" is-config="true" duration-ms="3925" started-at="2016-10-26T15:02:18Z" finished-at="2016-10-26T15:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inProgress()[pri:0, instance:tests.HomeTests@402f32ff]" name="inProgress" is-config="true" duration-ms="0" started-at="2016-10-26T15:02:18Z" finished-at="2016-10-26T15:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inProgress -->
+        <test-method status="PASS" signature="testTc01HomePageDisplayed()[pri:0, instance:tests.HomeTests@402f32ff]" name="testTc01HomePageDisplayed" duration-ms="36" started-at="2016-10-26T15:02:22Z" finished-at="2016-10-26T15:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc01HomePageDisplayed -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.HomeTests@402f32ff]" name="deleteDriver" is-config="true" duration-ms="696" started-at="2016-10-26T15:02:22Z" finished-at="2016-10-26T15:02:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.HomeTests@402f32ff]" name="setUp" is-config="true" duration-ms="3455" started-at="2016-10-26T15:02:23Z" finished-at="2016-10-26T15:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc02HomePageNavMenu()[pri:0, instance:tests.HomeTests@402f32ff]" name="testTc02HomePageNavMenu" duration-ms="84" started-at="2016-10-26T15:02:27Z" finished-at="2016-10-26T15:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc02HomePageNavMenu -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.HomeTests@402f32ff]" name="deleteDriver" is-config="true" duration-ms="643" started-at="2016-10-26T15:02:27Z" finished-at="2016-10-26T15:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="completeExecution()[pri:0, instance:tests.HomeTests@402f32ff]" name="completeExecution" is-config="true" duration-ms="0" started-at="2016-10-26T15:02:27Z" finished-at="2016-10-26T15:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeExecution -->
+      </class> <!-- tests.HomeTests -->
+      <class name="tests.AdsProfileTests">
+        <test-method status="PASS" signature="start()[pri:0, instance:tests.AdsProfileTests@7c0e2abd]" name="start" is-config="true" duration-ms="4" started-at="2016-10-26T15:01:49Z" finished-at="2016-10-26T15:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="start()[pri:0, instance:tests.BrowseCTests@48eff760]" name="start" is-config="true" duration-ms="1" started-at="2016-10-26T15:01:49Z" finished-at="2016-10-26T15:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="start()[pri:0, instance:tests.LogInTests@573f2bb1]" name="start" is-config="true" duration-ms="0" started-at="2016-10-26T15:01:49Z" finished-at="2016-10-26T15:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="start()[pri:0, instance:tests.PostAdTests@5ae9a829]" name="start" is-config="true" duration-ms="0" started-at="2016-10-26T15:01:49Z" finished-at="2016-10-26T15:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="start()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="start" is-config="true" duration-ms="0" started-at="2016-10-26T15:01:49Z" finished-at="2016-10-26T15:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="start()[pri:0, instance:tests.HomeTests@402f32ff]" name="start" is-config="true" duration-ms="0" started-at="2016-10-26T15:01:49Z" finished-at="2016-10-26T15:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="inProgress()[pri:0, instance:tests.AdsProfileTests@7c0e2abd]" name="inProgress" is-config="true" duration-ms="0" started-at="2016-10-26T15:01:49Z" finished-at="2016-10-26T15:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inProgress -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.AdsProfileTests@7c0e2abd]" name="setUp" is-config="true" duration-ms="3581" started-at="2016-10-26T15:01:49Z" finished-at="2016-10-26T15:01:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc09AdsProfilePageDisplayedCorrectly()[pri:0, instance:tests.AdsProfileTests@7c0e2abd]" name="testTc09AdsProfilePageDisplayedCorrectly" duration-ms="561" started-at="2016-10-26T15:01:53Z" finished-at="2016-10-26T15:01:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc09AdsProfilePageDisplayedCorrectly -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.AdsProfileTests@7c0e2abd]" name="deleteDriver" is-config="true" duration-ms="700" started-at="2016-10-26T15:01:53Z" finished-at="2016-10-26T15:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.AdsProfileTests@7c0e2abd]" name="setUp" is-config="true" duration-ms="3730" started-at="2016-10-26T15:01:54Z" finished-at="2016-10-26T15:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc10LogInPageDisplayedWhenUserNotLogged()[pri:0, instance:tests.AdsProfileTests@7c0e2abd]" name="testTc10LogInPageDisplayedWhenUserNotLogged" duration-ms="206" started-at="2016-10-26T15:01:58Z" finished-at="2016-10-26T15:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc10LogInPageDisplayedWhenUserNotLogged -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.AdsProfileTests@7c0e2abd]" name="deleteDriver" is-config="true" duration-ms="644" started-at="2016-10-26T15:01:58Z" finished-at="2016-10-26T15:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="completeExecution()[pri:0, instance:tests.AdsProfileTests@7c0e2abd]" name="completeExecution" is-config="true" duration-ms="1" started-at="2016-10-26T15:01:59Z" finished-at="2016-10-26T15:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeExecution -->
+        <test-method status="PASS" signature="finishingExecution()[pri:0, instance:tests.AdsProfileTests@7c0e2abd]" name="finishingExecution" is-config="true" duration-ms="0" started-at="2016-10-26T15:03:13Z" finished-at="2016-10-26T15:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishingExecution -->
+        <test-method status="PASS" signature="finishingExecution()[pri:0, instance:tests.PostAdTests@5ae9a829]" name="finishingExecution" is-config="true" duration-ms="0" started-at="2016-10-26T15:03:13Z" finished-at="2016-10-26T15:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishingExecution -->
+        <test-method status="PASS" signature="finishingExecution()[pri:0, instance:tests.LogInTests@573f2bb1]" name="finishingExecution" is-config="true" duration-ms="0" started-at="2016-10-26T15:03:13Z" finished-at="2016-10-26T15:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishingExecution -->
+        <test-method status="PASS" signature="finishingExecution()[pri:0, instance:tests.HomeTests@402f32ff]" name="finishingExecution" is-config="true" duration-ms="0" started-at="2016-10-26T15:03:13Z" finished-at="2016-10-26T15:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishingExecution -->
+        <test-method status="PASS" signature="finishingExecution()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="finishingExecution" is-config="true" duration-ms="0" started-at="2016-10-26T15:03:13Z" finished-at="2016-10-26T15:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishingExecution -->
+        <test-method status="PASS" signature="finishingExecution()[pri:0, instance:tests.BrowseCTests@48eff760]" name="finishingExecution" is-config="true" duration-ms="0" started-at="2016-10-26T15:03:13Z" finished-at="2016-10-26T15:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishingExecution -->
+      </class> <!-- tests.AdsProfileTests -->
+      <class name="tests.RegisterTests">
+        <test-method status="PASS" signature="inProgress()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="inProgress" is-config="true" duration-ms="0" started-at="2016-10-26T15:02:53Z" finished-at="2016-10-26T15:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inProgress -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="setUp" is-config="true" duration-ms="3980" started-at="2016-10-26T15:02:53Z" finished-at="2016-10-26T15:02:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc11RegisterPageDisplayed()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="testTc11RegisterPageDisplayed" duration-ms="250" started-at="2016-10-26T15:02:57Z" finished-at="2016-10-26T15:02:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc11RegisterPageDisplayed -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="deleteDriver" is-config="true" duration-ms="751" started-at="2016-10-26T15:02:57Z" finished-at="2016-10-26T15:02:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="setUp" is-config="true" duration-ms="3512" started-at="2016-10-26T15:02:58Z" finished-at="2016-10-26T15:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc12MandatoryFieldsMessages()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="testTc12MandatoryFieldsMessages" duration-ms="420" started-at="2016-10-26T15:03:01Z" finished-at="2016-10-26T15:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc12MandatoryFieldsMessages -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="deleteDriver" is-config="true" duration-ms="644" started-at="2016-10-26T15:03:01Z" finished-at="2016-10-26T15:03:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="setUp" is-config="true" duration-ms="3357" started-at="2016-10-26T15:03:02Z" finished-at="2016-10-26T15:03:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc13UsernameAlreadyTaken()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="testTc13UsernameAlreadyTaken" duration-ms="830" started-at="2016-10-26T15:03:05Z" finished-at="2016-10-26T15:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc13UsernameAlreadyTaken -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="deleteDriver" is-config="true" duration-ms="946" started-at="2016-10-26T15:03:06Z" finished-at="2016-10-26T15:03:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="setUp" is-config="true" duration-ms="3863" started-at="2016-10-26T15:03:07Z" finished-at="2016-10-26T15:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc14ConfirmPasswordErrorMessage()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="testTc14ConfirmPasswordErrorMessage" duration-ms="775" started-at="2016-10-26T15:03:11Z" finished-at="2016-10-26T15:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc14ConfirmPasswordErrorMessage -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="deleteDriver" is-config="true" duration-ms="642" started-at="2016-10-26T15:03:12Z" finished-at="2016-10-26T15:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="completeExecution()[pri:0, instance:tests.RegisterTests@6d8a00e3]" name="completeExecution" is-config="true" duration-ms="1" started-at="2016-10-26T15:03:13Z" finished-at="2016-10-26T15:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeExecution -->
+      </class> <!-- tests.RegisterTests -->
+      <class name="tests.LogInTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.LogInTests@573f2bb1]" name="setUp" is-config="true" duration-ms="3606" started-at="2016-10-26T15:02:27Z" finished-at="2016-10-26T15:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inProgress()[pri:0, instance:tests.LogInTests@573f2bb1]" name="inProgress" is-config="true" duration-ms="0" started-at="2016-10-26T15:02:27Z" finished-at="2016-10-26T15:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inProgress -->
+        <test-method status="PASS" signature="testTc15LogIn()[pri:0, instance:tests.LogInTests@573f2bb1]" name="testTc15LogIn" duration-ms="88" started-at="2016-10-26T15:02:31Z" finished-at="2016-10-26T15:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc15LogIn -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.LogInTests@573f2bb1]" name="deleteDriver" is-config="true" duration-ms="694" started-at="2016-10-26T15:02:31Z" finished-at="2016-10-26T15:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.LogInTests@573f2bb1]" name="setUp" is-config="true" duration-ms="3819" started-at="2016-10-26T15:02:32Z" finished-at="2016-10-26T15:02:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc16Usercanlogin()[pri:0, instance:tests.LogInTests@573f2bb1]" name="testTc16Usercanlogin" duration-ms="297" started-at="2016-10-26T15:02:35Z" finished-at="2016-10-26T15:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc16Usercanlogin -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.LogInTests@573f2bb1]" name="deleteDriver" is-config="true" duration-ms="641" started-at="2016-10-26T15:02:36Z" finished-at="2016-10-26T15:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.LogInTests@573f2bb1]" name="setUp" is-config="true" duration-ms="4508" started-at="2016-10-26T15:02:36Z" finished-at="2016-10-26T15:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc17Invalidlogin()[pri:0, instance:tests.LogInTests@573f2bb1]" name="testTc17Invalidlogin" duration-ms="325" started-at="2016-10-26T15:02:41Z" finished-at="2016-10-26T15:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc17Invalidlogin -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.LogInTests@573f2bb1]" name="deleteDriver" is-config="true" duration-ms="696" started-at="2016-10-26T15:02:41Z" finished-at="2016-10-26T15:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="completeExecution()[pri:0, instance:tests.LogInTests@573f2bb1]" name="completeExecution" is-config="true" duration-ms="0" started-at="2016-10-26T15:02:42Z" finished-at="2016-10-26T15:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeExecution -->
+      </class> <!-- tests.LogInTests -->
+      <class name="tests.PostAdTests">
+        <test-method status="PASS" signature="inProgress()[pri:0, instance:tests.PostAdTests@5ae9a829]" name="inProgress" is-config="true" duration-ms="0" started-at="2016-10-26T15:02:42Z" finished-at="2016-10-26T15:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inProgress -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.PostAdTests@5ae9a829]" name="setUp" is-config="true" duration-ms="3942" started-at="2016-10-26T15:02:42Z" finished-at="2016-10-26T15:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc07PostAdPageDisplayedCorrectly()[pri:0, instance:tests.PostAdTests@5ae9a829]" name="testTc07PostAdPageDisplayedCorrectly" duration-ms="528" started-at="2016-10-26T15:02:46Z" finished-at="2016-10-26T15:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc07PostAdPageDisplayedCorrectly -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.PostAdTests@5ae9a829]" name="deleteDriver" is-config="true" duration-ms="693" started-at="2016-10-26T15:02:46Z" finished-at="2016-10-26T15:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.PostAdTests@5ae9a829]" name="setUp" is-config="true" duration-ms="4284" started-at="2016-10-26T15:02:47Z" finished-at="2016-10-26T15:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc08LogInPageDisplayedWhenUserNotLogged()[pri:0, instance:tests.PostAdTests@5ae9a829]" name="testTc08LogInPageDisplayedWhenUserNotLogged" duration-ms="505" started-at="2016-10-26T15:02:51Z" finished-at="2016-10-26T15:02:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc08LogInPageDisplayedWhenUserNotLogged -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.PostAdTests@5ae9a829]" name="deleteDriver" is-config="true" duration-ms="695" started-at="2016-10-26T15:02:52Z" finished-at="2016-10-26T15:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="completeExecution()[pri:0, instance:tests.PostAdTests@5ae9a829]" name="completeExecution" is-config="true" duration-ms="1" started-at="2016-10-26T15:02:53Z" finished-at="2016-10-26T15:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeExecution -->
+      </class> <!-- tests.PostAdTests -->
+      <class name="tests.BrowseCTests">
+        <test-method status="PASS" signature="inProgress()[pri:0, instance:tests.BrowseCTests@48eff760]" name="inProgress" is-config="true" duration-ms="0" started-at="2016-10-26T15:01:59Z" finished-at="2016-10-26T15:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inProgress -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.BrowseCTests@48eff760]" name="setUp" is-config="true" duration-ms="3815" started-at="2016-10-26T15:01:59Z" finished-at="2016-10-26T15:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc03searchViewAntiquesCollectibles()[pri:0, instance:tests.BrowseCTests@48eff760]" name="testTc03searchViewAntiquesCollectibles" duration-ms="278" started-at="2016-10-26T15:02:03Z" finished-at="2016-10-26T15:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc03searchViewAntiquesCollectibles -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.BrowseCTests@48eff760]" name="deleteDriver" is-config="true" duration-ms="645" started-at="2016-10-26T15:02:03Z" finished-at="2016-10-26T15:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.BrowseCTests@48eff760]" name="setUp" is-config="true" duration-ms="3522" started-at="2016-10-26T15:02:03Z" finished-at="2016-10-26T15:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc04searchViewArtCrafts()[pri:0, instance:tests.BrowseCTests@48eff760]" name="testTc04searchViewArtCrafts" duration-ms="140" started-at="2016-10-26T15:02:07Z" finished-at="2016-10-26T15:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc04searchViewArtCrafts -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.BrowseCTests@48eff760]" name="deleteDriver" is-config="true" duration-ms="796" started-at="2016-10-26T15:02:07Z" finished-at="2016-10-26T15:02:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.BrowseCTests@48eff760]" name="setUp" is-config="true" duration-ms="3605" started-at="2016-10-26T15:02:08Z" finished-at="2016-10-26T15:02:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc05searchViewAuto()[pri:0, instance:tests.BrowseCTests@48eff760]" name="testTc05searchViewAuto" duration-ms="164" started-at="2016-10-26T15:02:11Z" finished-at="2016-10-26T15:02:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc05searchViewAuto -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.BrowseCTests@48eff760]" name="deleteDriver" is-config="true" duration-ms="644" started-at="2016-10-26T15:02:12Z" finished-at="2016-10-26T15:02:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.BrowseCTests@48eff760]" name="setUp" is-config="true" duration-ms="4002" started-at="2016-10-26T15:02:12Z" finished-at="2016-10-26T15:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTc06searchViewAll()[pri:0, instance:tests.BrowseCTests@48eff760]" name="testTc06searchViewAll" duration-ms="1412" started-at="2016-10-26T15:02:16Z" finished-at="2016-10-26T15:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTc06searchViewAll -->
+        <test-method status="PASS" signature="deleteDriver()[pri:0, instance:tests.BrowseCTests@48eff760]" name="deleteDriver" is-config="true" duration-ms="696" started-at="2016-10-26T15:02:18Z" finished-at="2016-10-26T15:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDriver -->
+        <test-method status="PASS" signature="completeExecution()[pri:0, instance:tests.BrowseCTests@48eff760]" name="completeExecution" is-config="true" duration-ms="0" started-at="2016-10-26T15:02:18Z" finished-at="2016-10-26T15:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeExecution -->
+      </class> <!-- tests.BrowseCTests -->
+    </test> <!-- Automation Basics -->
+  </suite> <!-- Automation-Training -->
+</testng-results>

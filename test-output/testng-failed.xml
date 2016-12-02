@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation-Training]">
+  <test name="Automation Basics(failed)">
+    <classes>
+      <class name="tests.AdsProfileTests">
+        <methods>
+          <include name="setUp"/>
+          <include name="completeExecution"/>
+          <include name="start"/>
+          <include name="deleteDriver"/>
+          <include name="testTc09AdsProfilePageDisplayedCorrectly"/>
+          <include name="finishingExecution"/>
+          <include name="inProgress"/>
+        </methods>
+      </class> <!-- tests.AdsProfileTests -->
+    </classes>
+  </test> <!-- Automation Basics(failed) -->
+</suite> <!-- Failed suite [Automation-Training] -->
